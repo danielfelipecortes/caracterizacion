@@ -1,0 +1,22 @@
+				<input  type="checkbox" name="Correo" id="Correo" value="1"> <label for="Correo">Option 1</label>
+				<br>
+				<input  type="checkbox" name="Nombres" id="Nombres" value="2"> <label for="Nombres">Option 2</label>
+				<input type="submit" value="Enviar" name="Enviar">
+error_reporting(0);
+             $Correo =" ";
+             $Nombres =" ";
+             if(isset($_POST["Enviar"])){
+                if($_POST['Correo'] == 1){
+                 $Correo=$_POST["Correo"];
+                }else{
+                 $Correo=3; 
+                }
+                if($_POST['Nombres'] == 2){
+                 $Nombres=$_POST["Nombres"];
+                }else{
+                 $Nombres=3; 
+                }
+                 include "ejecutar.php";
+             }else{
+                 echo "Por favor regrese verifique"; 
+             }

@@ -1,0 +1,10 @@
+<option value="">Ciudad en la que se encuentra</option>
+<option value=1>Manizales</option>
+<option value=2>Armenia</option>
+<option value=3>Circasia</option>
+<option value=4>Belén de Umbría</option>
+<option value=5>Dosquebradas</option>
+<option value=6>La Virginia</option>
+<option value=7>Pereira</option>
+<option value=8>Santa Rosa de Cabal</option>
+<option value=9>Cartago</option>

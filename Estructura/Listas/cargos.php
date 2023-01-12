@@ -1,0 +1,9 @@
+<option value="">--</option>
+<option value=1>Auxiliar operativo</option>
+<option value=2>Auxiliar administrativo</option>
+<option value=3>Profesional administrativo</option>
+<option value=4>Coordinador de área</option>
+<option value=5>Directivo</option>
+<option value=6>Director de programa</option>
+<option value=7>Aprendiz</option>
+<option value=8>Practicante</option>

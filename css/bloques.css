@@ -1,0 +1,253 @@
+.html,body{
+    height:100vh;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("../Imagenes/Fondo_categorias.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #FFF;
+}
+.container{
+    padding: 0;
+    margin: 0;
+}
+.topnav{
+    padding: 0;
+    margin: 0;
+}
+img{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+.topnav .btn{
+    float: right;
+    margin-top: 0.2%;
+    margin-right: 0.2%;
+    background-color: transparent;
+    border: none;
+}
+.topnav .btn .ini{
+    text-decoration: none;
+}
+.topnav .btn:hover{
+    background-color: rgb(0, 143, 48);
+    border-color: rgb(0, 143, 48);
+}
+.topnav .btn a{
+    text-decoration: none;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.content{
+    margin: 0;
+    padding: 0;
+}
+.guia{
+    padding: 0;
+    margin-left: 5%; /* distancia al lado izquierdo */
+    width: 50%;
+}
+.content .btn{
+    background-color: transparent;
+    border-color: transparent;
+    color: black;
+    border-radius: 10px;
+    margin-top: 4%; /* separacion entre botones */
+    cursor: pointer;
+    display: block;
+    text-align: center;
+}
+.content .btn:hover{
+    background-color: rgb(98, 3, 143);
+    border-color: rgb(98, 3, 143);
+}
+.content .btn a{
+    text-decoration: none;
+    color: black;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+@media only screen and (max-device-width: 1560px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 1560px) {
+    img{
+        margin: 1%;
+    }
+}
+@media only screen and (max-device-width: 1280px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 1152px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 1152px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 1024px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 912px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 912px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 820px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 768px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    img{
+        margin: 1%;
+    }
+}
+
+@media only screen and (max-device-width: 590px) {
+}
+
+@media only screen and (max-width: 590px) {
+}
+
+@media only screen and (max-device-width: 540px) {
+    img{
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    img{
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    img{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    img{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-device-width: 425px) {
+}
+
+@media only screen and (max-width: 425px) {
+}
+
+@media only screen and (max-device-width: 414px) {
+}
+
+@media only screen and (max-width: 414px) {
+}
+
+@media only screen and (max-device-width: 412px) {
+}
+
+@media only screen and (max-width: 412px) {
+}
+
+@media only screen and (max-device-width: 393px) {
+}
+
+@media only screen and (max-width: 393px) {
+}
+
+@media only screen and (max-device-width: 390px) {
+}
+
+@media only screen and (max-width: 390px) {
+}
+
+@media only screen and (max-device-width: 375px) {
+}
+
+@media only screen and (max-width: 375px) {
+}
+
+@media only screen and (max-device-width: 360px) {
+}
+
+@media only screen and (max-width: 360px) {
+}
+
+@media only screen and (max-device-width: 320px) {
+}
+
+@media only screen and (max-width: 320px) {
+}
+
+@media only screen and (max-device-width: 280px) {
+}
+
+@media only screen and (max-width: 280px) {
+}

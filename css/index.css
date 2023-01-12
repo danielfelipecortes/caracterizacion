@@ -1,0 +1,605 @@
+.html,body{
+    height:100vh;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("../Imagenes/Fondo.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #FFF;
+}
+.container{
+    padding: 0;
+    margin: 0;
+}
+.topnav{
+    padding: 0;
+    margin: 0;
+}
+img{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+.topnav .btn{
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+    font-size: x-large;
+}
+.content{
+    padding: 0;
+    margin: 0;
+}
+#select {
+    border: 0ch;
+    background: transparent;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    cursor: pointer;
+}
+.uno{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    padding: 1%;
+    width: 50%;
+}
+.uno a{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dos{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 50%;
+}
+.dos .form-select {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tres{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    width: 50%;
+}
+.btn{
+    font-size: x-large;
+}
+.cuatro{
+    visibility: hidden;
+}
+.cuatro .btn a{
+    text-decoration: none; 
+    color: white;
+}
+@media only screen and (max-device-width: 1440px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 1280px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 1024px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 912px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 912px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 820px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    img{
+        margin: 1%;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 768px) {
+    img{
+        margin: 1%;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .dos{
+        width: 55%;
+    }
+    .cuatro{
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding: 1%;
+        width: 50%;
+        visibility: visible;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    img{
+        margin: 1%;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 10%;
+    }
+    .dos{
+        width: 55%;
+    }
+    .cuatro{
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding: 1%;
+        width: 50%;
+        visibility: visible;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 540px) {
+    img{
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 10%;
+        width: 70%;
+    }
+    .dos{
+        width: 70%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    img{
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 10%;
+        width: 70%;
+    }
+    .dos{
+        width: 70%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    img{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 30%;
+        width: 70%;
+    }
+    .dos{
+        width: 70%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    img{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 30%;
+        width: 70%;
+    }
+    .dos{
+        width: 70%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 425px) {
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .topnav .btn{
+        display: none;
+    }
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 414px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 412px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 412px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-device-width: 393px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 390px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width: 375px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 85%;
+    }
+    .cuatro .btn {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 85%;
+    }
+    .cuatro .btn {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-device-width: 360px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 90%;
+    }
+    .cuatro .btn {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 90%;
+    }
+    .cuatro .btn {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-device-width: 320px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 95%;
+    }
+    .uno a{
+        font-size: x-large;
+    }
+    .form-select {
+        text-align: center;
+        font-size: x-large;
+    }
+    .cuatro .btn {
+        width: 100%;
+        font-size: medium;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .uno{
+        margin-top: 30%;
+    }
+    .form-select {
+        text-align: center;
+    }
+    .dos{
+        width: 95%;
+    }
+    .uno a{
+        font-size: x-large;
+    }
+    .form-select {
+        text-align: center;
+        font-size: x-large;
+    }
+    .cuatro .btn {
+        width: 100%;
+        font-size: medium;
+    }
+}
+
+@media only screen and (max-device-width: 280px) {
+    .topnav .btn{
+        font-size: xx-small;
+    }
+    .uno{
+        margin-top: 30%;
+        width: 100%;
+    }
+    .uno a{
+        font-size: medium;
+    }
+    .dos{
+        width: 80%;
+    }
+    .form-select {
+        text-align: center;
+        font-size: medium;
+    }
+    .tres .btn {
+        font-size: medium;
+    }
+    .cuatro .btn a{
+        font-size: medium;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .uno{
+        margin-top: 30%;
+        width: 100%;
+    }
+    .uno a{
+        font-size: medium;
+    }
+    .dos{
+        width: 80%;
+    }
+    .form-select {
+        text-align: center;
+        font-size: medium;
+    }
+    .tres .btn {
+        font-size: medium;
+    }
+    .cuatro .btn a{
+        font-size: medium;
+        padding: 0;
+        margin: 0;
+    }
+}
+

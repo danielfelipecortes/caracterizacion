@@ -1,0 +1,407 @@
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', 'TI', '1193570529', '64', '2', '4', 'Basico', 'Experto', 'Ninguno', 'Ninguno', 'Avanzado', 'Experto', 'Ninguno', 'Basico', 'Experto', '', 'Basico', 'Experto', 'Experto', 'Basico', 'Experto', 'Avanzado', 'Ninguno', 'Experto', 'Basico', 'Ninguno', 'Basico', 'Avanzado', '', 'Avanzado', 'Avanzado', 'Experto', 'Experto', 'Avanzado', 'Experto', 'Experto', 'Basico', 'Avanzado', 'Avanzado', '', '', 'No', '1', '3', '0', '5', '4', '3', '4', '', 'Respuesta2', 'Respuesta4', 'Respuesta1', 'Si', 'Siempre', 'A veces', 'Muchas veces', 'Muchas veces', 'Siempre', 'No', 'No', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'Si', 'Si', 'Si', 'No') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'Si', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'No', 'No', 'No', 'Si', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'juliana.agudelo@ucp.edu.co', 'Juliana ', 'Agudelo Pineda', '1193570529', '64', '2', 'No', 'No', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', 'CE', '1088828972', '37', '7', '9', 'Avanzado', 'Avanzado', 'Avanzado', 'Ninguno', 'Ninguno', 'Ninguno', 'Basico', 'Basico', 'Avanzado', '', 'Experto', 'Avanzado', 'Experto', 'Basico', 'Basico', 'Experto', 'Basico', 'Experto', 'Basico', 'Basico', 'Basico', 'Avanzado', '', 'Basico', 'Basico', 'Ninguno', 'Ninguno', 'Basico', 'Ninguno', 'Experto', 'Experto', 'Basico', 'Experto', '', '', 'Si', '0', '2', '1', '5', '3', '4', '3', '', 'Respuesta2', 'Respuesta2', 'Respuesta4', 'No', 'A veces', 'A veces', 'A veces', 'Muchas veces', 'Muchas veces', 'No', 'Muchas veces', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'Si') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'Si', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'Si', 'Si', 'Si', 'Si', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'Si', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'santiago.cabrales@ucp.edu.co', 'Santiago', 'cabrales', '1088828972', '37', '7', 'No', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', 'PA', '1113859317', '31', '4', '1', 'Avanzado', 'Basico', 'Basico', 'Ninguno', 'Ninguno', 'Basico', 'Avanzado', 'Ninguno', 'Ninguno', '', 'Basico', 'Ninguno', 'Ninguno', 'Basico', 'Ninguno', 'Experto', 'Experto', 'Experto', 'Experto', 'Basico', 'Avanzado', 'Ninguno', '', 'Experto', 'Basico', 'Avanzado', 'Basico', 'Avanzado', 'Avanzado', 'Experto', 'Basico', 'Basico', 'Ninguno', '', '', 'No', '3', '3', '3', '4', '4', '3', '0', '', 'Respuesta1', 'Respuesta3', 'Respuesta3', 'No', 'Siempre', 'A veces', 'Muchas veces', 'No', 'A veces', 'No', 'Muchas veces', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'No', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'Si', 'No', 'Si') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'Si', 'Si', 'No', 'No', 'No', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'alexandra.gutierrez@ucp.edu.co', 'Alexandra', 'Gutierrez Salinas', '1113859317', '31', '4', 'No', 'Si', 'Si', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', 'CE', '1034285149', '54', '5', '8', 'Basico', 'Basico', 'Ninguno', 'Experto', 'Ninguno', 'Avanzado', 'Avanzado', 'Avanzado', 'Basico', '', 'Basico', 'Basico', 'Basico', 'Experto', 'Experto', 'Basico', 'Avanzado', 'Avanzado', 'Basico', 'Avanzado', 'Ninguno', 'Basico', '', 'Avanzado', 'Ninguno', 'Experto', 'Avanzado', 'Ninguno', 'Ninguno', 'Avanzado', 'Ninguno', 'Avanzado', 'Avanzado', '', '', 'No', '2', '2', '5', '2', '0', '1', '4', '', 'Respuesta2', 'Respuesta3', 'Respuesta1', 'No', 'Muchas veces', 'Muchas veces', 'Siempre', 'No', 'Siempre', 'Muchas veces', 'Muchas veces', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'No') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'Si', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'Si', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'Si', 'No', 'No', 'Si', 'Si', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'alejandro1.ocampo@ucp.edu.co', 'Alejandro', 'Ocampo', '1034285149', '54', '5', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', 'PA', '1126804521', '19', '2', '7', 'Basico', 'Avanzado', 'Experto', 'Ninguno', 'Experto', 'Avanzado', 'Experto', 'Avanzado', 'Experto', '', 'Avanzado', 'Basico', 'Experto', 'Ninguno', 'Basico', 'Avanzado', 'Ninguno', 'Basico', 'Experto', 'Experto', 'Avanzado', 'Basico', '', 'Avanzado', 'Experto', 'Experto', 'Experto', 'Basico', 'Basico', 'Ninguno', 'Basico', 'Avanzado', 'Experto', '', '', 'No', '4', '3', '3', '4', '3', '2', '2', '', 'Respuesta4', 'Respuesta1', 'Respuesta4', 'No', 'A veces', 'Muchas veces', 'Siempre', 'No', 'Siempre', 'No', 'Muchas veces', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'No', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'Si', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'Si', 'No', 'Si', 'No', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'Si', 'Si', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'valentina2.betancur@ucp.edu.co', 'Valentina ', 'Betancur Andrade ', '1126804521', '19', '2', 'No', 'Si', 'No', 'Si', 'Si', 'Si') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', 'TI', '1004519791', '16', '2', '9', 'Avanzado', 'Avanzado', 'Ninguno', 'Basico', 'Avanzado', 'Basico', 'Basico', 'Avanzado', 'Experto', '', 'Ninguno', 'Experto', 'Ninguno', 'Experto', 'Avanzado', 'Ninguno', 'Experto', 'Experto', 'Ninguno', 'Basico', 'Ninguno', 'Avanzado', '', 'Basico', 'Basico', 'Avanzado', 'Basico', 'Experto', 'Avanzado', 'Basico', 'Basico', 'Basico', 'Avanzado', '', '', 'No', '4', '1', '0', '1', '1', '2', '3', '', 'Respuesta4', 'Respuesta2', 'Respuesta1', 'Si', 'A veces', 'Siempre', 'No', 'Siempre', 'No', 'Muchas veces', 'No', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'Si', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'Si', 'Si', 'No', 'No', 'No', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'No', 'Si', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'dahiana.navia@ucp.edu.co', 'Dahiana Stefany', 'Navia Garzón', '1004519791', '16', '2', 'Si', 'No', 'Si', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', 'CE', '1004701762', '37', '1', '9', 'Basico', 'Ninguno', 'Ninguno', 'Experto', 'Ninguno', 'Ninguno', 'Experto', 'Avanzado', 'Avanzado', '', 'Experto', 'Experto', 'Ninguno', 'Experto', 'Experto', 'Ninguno', 'Experto', 'Avanzado', 'Basico', 'Basico', 'Avanzado', 'Experto', '', 'Avanzado', 'Avanzado', 'Avanzado', 'Experto', 'Avanzado', 'Ninguno', 'Ninguno', 'Experto', 'Ninguno', 'Avanzado', '', '', 'No', '5', '5', '5', '4', '2', '4', '1', '', 'Respuesta3', 'Respuesta4', 'Respuesta4', 'No', 'No', 'No', 'A veces', 'No', 'A veces', 'Siempre', 'Siempre', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'No', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'Si', 'No', 'No', 'No') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'No', 'No', 'No', 'No', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'No', 'Si', 'No', 'Si', 'Si') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'maria1.castano@ucp.edu.co', 'María Camila', 'Castaño Jaramillo', '1004701762', '37', '1', 'Si', 'No', 'Si', 'Si', 'Si', 'No') ;
+
+INSERT INTO `2.0_Administrativos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Documento`, `Numero`, `Programa`, `Cargo`, `Ciudad`, `Habilidades_digitales`, `Habilidades_texto`, `Habilidades_calculo`, `Habilidades_presentacion`, `Habilidades_datos`, `Habilidades_herramientas`, `Habilidades_correo`, `Habilidades_hardware`, `Habilidades_software`, `Otro_uno`, `Habilidades_navegador`, `Habilidades_buscadores`, `Habilidades_correo_electronico`, `Habilidades_seguridad`, `Habilidades_web2`, `Habilidades_web3`, `Habilidades_web4`, `Habilidades_redes_sociales`, `Habilidades_foros`, `Habilidades_blogs`, `Habilidades_nube`, `Habilidades_conferencias`, `Otro_dos`, `Habilidades_buscador`, `Habilidades_correos`, `Habilidades_calendario`, `Habilidades_drive`, `Habilidades_documentos`, `Habilidades_calculos`, `Habilidades_presentaciones`, `Habilidades_formularios`, `Habilidades_keep`, `Habilidades_jamboard`, `Otro_tres`, `Otro_cuatro`, `Servicios_ucp`, `Whatsapp`, `Facebook`, `Youtube`, `Instagram`, `Twitter`, `Linkedin`, `Tiktok`, `Otra_cinco`, `Uso_redes_sociales`, `Criterios`, `Privasidad`, `Netiqueta`, `Trato`, `Ignorar`, `Breve`, `Preocupacion`, `Demas`, `Respeto`, `Mucho_texto`, `Opiniones`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', 'CE', '1004685122', '11', '3', '8', 'Basico', 'Basico', 'Basico', 'Ninguno', 'Experto', 'Ninguno', 'Basico', 'Avanzado', 'Experto', '', 'Experto', 'Experto', 'Avanzado', 'Basico', 'Ninguno', 'Experto', 'Experto', 'Experto', 'Experto', 'Experto', 'Experto', 'Avanzado', '', 'Avanzado', 'Experto', 'Avanzado', 'Basico', 'Ninguno', 'Ninguno', 'Experto', 'Experto', 'Ninguno', 'Ninguno', '', '', 'Si', '4', '5', '4', '0', '2', '5', '0', '', 'Respuesta2', 'Respuesta4', 'Respuesta2', 'Si', 'A veces', 'Muchas veces', 'Muchas veces', 'No', 'A veces', 'No', 'Siempre', '') ;
+
+INSERT INTO `2.1_Moodle` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.2_Sistema_academico` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.3_Bases_datos` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.4_Catalogo` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.5_Repositorio` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.6_Publicaciones` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'No') ;
+
+INSERT INTO `2.7_Libros` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'No', 'No', 'No', 'Si', 'No', 'No') ;
+
+INSERT INTO `2.8_Yeminus` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.9_Intranet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.10_Sevenet` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.11_Sar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Op7`, `Op8`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.12_Guardar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'No', 'No') ;
+
+INSERT INTO `2.13_Contrastar` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.14_Aprendizaje` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`, `Otra`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'Si', 'Si', 'Si', 'Si', 'Si', 'Si', '') ;
+
+INSERT INTO `2.15_Necesidad` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'Si', 'No', 'No', 'No', 'Si') ;
+
+INSERT INTO `2.16_Contenido` (`ID`, `Correo`, `Nombres`, `Apellidos`, `Numero`, `Programa`, `Cargo`, `Op1`, `Op2`, `Op3`, `Op4`, `Op5`, `Op6`) VALUES
+(NULL, 'juanita.moreno@ucp.edu.co', 'Juanita', 'Moreno Ramírez', '1004685122', '11', '3', 'No', 'Si', 'Si', 'Si', 'Si', 'Si') ;

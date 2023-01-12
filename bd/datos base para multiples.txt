@@ -1,0 +1,19 @@
+CREATE TABLE `Planes_internet` (
+  `ID` int(10) NOT NULL,
+  `Correo` varchar(50) NOT NULL,
+  `Nombres` varchar(50) NOT NULL,
+  `Apellidos` varchar(50) NOT NULL,
+  `Numero` varchar(15) NOT NULL,
+  `Programa` int(10) NOT NULL,
+  `Semestre` varchar(7) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ALTER TABLE `Planes_internet`
+  ADD PRIMARY KEY (`ID`),
+  ADD KEY `Programa` (`Programa`);
+
+ALTER TABLE `Planes_internet`
+  MODIFY `ID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=0;
+
+ALTER TABLE `Planes_internet`
+  ADD CONSTRAINT `Planes_internet_ibfk_1` FOREIGN KEY (`Programa`) REFERENCES `Programas` (`ID`);

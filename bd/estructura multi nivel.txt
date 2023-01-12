@@ -1,0 +1,75 @@
+            <div class="contenedor">
+                <!--inicio seccion 4-->
+                <section id="sec4">
+                    <div class ="titulo">
+                        <h2 style="margin: 0 auto;">
+                            titulo seccion
+                        </h2>
+                    </div>
+                    <!--inicio sub-seccion 1-->
+                    <div id="demo7" class="carousel slide" data-bs-ride="carousel" data-bs-interval="0">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                Tabla 1
+                            </div> 
+                            <div class="carousel-item">
+                                Tabla 2
+                            </div> 
+                        </div>
+                        <!-- controles derecha-izquierda -->
+                        <button class="carousel-control-prev" type="button" data-bs-target="#demo7" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#demo7" data-bs-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                        </button>    
+                    </div> 
+                    <!--fin sub-seccion 1-->
+                    <!--inicio sub-seccion 2-->
+                    <section id="sec4.1">
+                        <div class ="titulo">
+                            <h3 style="margin: 0 auto;">
+                                Titulo sub seccion
+                            </h3>
+                        </div>
+                        <div id="demo3" class="carousel slide" data-bs-ride="carousel" data-bs-interval="0">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    Tabla 1
+                                </div>
+                      		    <div class="carousel-item">
+                                    Tabla 2
+                                </div>
+                            </div>
+                            <!-- controles derecha-izquierda -->
+                            <button class="carousel-control-prev" type="button" data-bs-target="#demo2" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#demo2" data-bs-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </button>    
+                        </div>                       
+                    </section>
+                    <!--fin sub-seccion 2-->
+                    <!--inicio sub-seccion 3-->
+                    <section id="sec4.2">
+                    </section>
+                    <!--fin sub-seccion 3-->
+                    <!--inicio sub-seccion 4-->
+                    <section id="sec4.3">
+                    </section>
+                    <!--fin sub-seccion 4-->
+                    <!--inicio sub-seccion 5-->
+                    <section id="sec4.4">
+                    </section>
+                    <!--fin sub-seccion 5-->
+                </section>
+                <!--fin seccion 4-->
+            </div>
+
+Calificación de conocimientos de bases de datos
+Calificación de conocimientos sobre software y otras herramientas para investigar
+Calificación de conocimientos de poratales para la divulgación de la actividad académica
+Calificación de uso de otros recursos electronicos para la busqueda de información académica
+
+
